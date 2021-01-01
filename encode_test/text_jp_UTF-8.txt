@@ -1,0 +1,10 @@
+text,kakko,value
+number,zenkaku,０９８７６５４３２１
+number,hankau,0987654321
+symbol,zenkaku,！＠＃＄％＾＆＊（）＿＋＝－
+symbol,hankau,!@#\$%^&*()_+=-
+english_character,zenkaku,ＡＳＤＦＧＨＪＫＬ：”～‘’；ｌｋｊｈｇｆｄｓａ
+english_character,hankaku,ASDFGHJKL:~`';lkjhgfdsa
+japanese_character,kanji,漢字
+japanese_character,hiragana,ひらがな
+japanese_character,katakana,カタカナ
